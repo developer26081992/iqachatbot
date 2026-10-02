@@ -1,0 +1,1 @@
+This is a test document for the IQA AI Chatbot. The chatbot uses retrieval augmented generation to answer questions from uploaded documents.
